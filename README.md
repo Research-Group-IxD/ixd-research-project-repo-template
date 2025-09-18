@@ -53,6 +53,12 @@ For students and researchers outside of the core project organization, collabora
     ```
 6.  **Create a Pull Request (PR):** Navigate to the original repository and you will see a prompt to create a pull request from your new branch. Ensure your PR is targeted to merge into the `dev` branch of the upstream (original) repository. Provide a clear title and description for your contribution.
 
+## Project Management Methodology
+
+This project adheres to the **Project-Driven Creation (PMC)** methodology, a framework that balances the structured aspects of project management with a focus on leadership, collaboration, and stakeholder engagement. For a detailed guide on how we apply PMC in this project, please see our comprehensive guide:
+
+- [A Comprehensive Guide to Project Planning with Project-Driven Creation (PMC)](docs/project-driven-creation-PMC.md)
+
 ## Project Page Customization
 
 This template also includes a pre-built academic project page.
