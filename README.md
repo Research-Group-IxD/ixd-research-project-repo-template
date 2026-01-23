@@ -21,6 +21,26 @@ Getting started is simple. Follow these steps to create your own project page:
 3.  **Customize the Content:** Edit the `index.html` file to replace all placeholder content with your own text, images, and videos. Detailed instructions are provided as comments within the HTML file.
 4.  **Deploy Your Website:** Deploy your project page using a service like GitHub Pages, Netlify, or Vercel.
 
+## Lessons Learned (AI for Society Eindhoven)
+
+In het Eindhoven-project hebben we vooral geleerd dat een goede template pas echt werkt als teamafspraken even helder zijn als de HTML. Dit zijn de belangrijkste inzichten die we nu standaard meenemen:
+
+- **Maak een minimale oplevering vroeg zichtbaar:** Zet een eerste, simpele versie online voordat je alles perfect probeert te maken.
+- **Gebruik placeholder content bewust:** Houd "TODO" in `index.html` expliciet, zodat niemand belangrijke velden vergeet.
+- **Eerst structuur, dan polish:** Zet de secties en navigatie eerst goed neer, daarna pas fijnslijpen van tekst en media.
+- **Werk vanuit feiten:** Beslis over visuals en teksten op basis van testen of feedback, niet op aannames.
+- **Documenteer keuzes in het repo:** Korte notities in de README voorkomen verlies van context bij wisselende teamleden.
+
+## Delivery Workflow (Pull Requests)
+
+We leveren via pull requests om overzicht, kwaliteit en samenwerking te borgen. Dit is de flow die we nu aanhouden:
+
+- **Per werkpakket een branch:** Naam in `feature/onderwerp-kort` of `fix/onderwerp-kort`.
+- **Kleine, duidelijke PR's:** 1 onderwerp per PR en een korte toelichting over "waarom" en "wat".
+- **Check de checklist:** Verwijs naar de `Customization Checklist` en vink aan wat is aangepakt.
+- **Review met concrete feedback:** Reageer op inhoud (klopt het verhaal) en op uitvoering (werkt het op mobiel).
+- **Merge pas na akkoord:** Minimaal 1 reviewer, en pas daarna samen live zetten.
+
 ## Customization Checklist
 
 To ensure your project page is complete, make sure you update the following in `index.html`:
